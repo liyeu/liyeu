@@ -1,5 +1,5 @@
 # 💫 About Me:
-an aspiring web developer
+known online as "elyeu"
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=liyeu&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
